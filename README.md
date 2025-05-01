@@ -24,8 +24,3 @@ A modern, secure password manager built with Next.js and Radix UI components. Ke
 - [Lucide Icons](https://lucide.dev/) - Beautiful icons
 - [Next Themes](https://github.com/pacocoursey/next-themes) - Theme management
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/password-manager.git
